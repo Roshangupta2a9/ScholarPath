@@ -1,0 +1,6 @@
+{
+  "name": "Student Learning Portal",
+  "description": "A comprehensive, responsive Ed-Tech platform for school students (Classes 1 to 10) featuring personalized class-based curriculum, interactive reading notes, practice exercises, and chapter-wise quiz assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
