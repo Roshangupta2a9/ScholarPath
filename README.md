@@ -6,7 +6,7 @@ The platform enforces a strict navigational and data-access hierarchy: students 
 
 ---
 
-## 🌟 Key Features of the Application
+## 🌟 Key Features of the Application made by Roshan Kumar Gupta
 
 * **Strict Role-Based Access Control (RBAC):** Students can only access the classroom environment corresponding to the specific class they selected during registration.
 * **Granular Hierarchical Navigation Flow:** 
